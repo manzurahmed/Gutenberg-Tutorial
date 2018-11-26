@@ -35,3 +35,7 @@ This runs the plugin in development mode. To produce production code run:
 ```js
 npm run build
 ```
+
+## Gutenberg Video Tutorials
+
+1. https://www.youtube.com/watch?v=ycNw2Jxziuw
