@@ -39,3 +39,4 @@ npm run build
 ## Gutenberg Video Tutorials
 
 1. https://www.youtube.com/watch?v=ycNw2Jxziuw
+2. https://www.youtube.com/channel/UCFnOHnLDMs7UUZxY8oq6fFA/videos
