@@ -40,3 +40,11 @@ npm run build
 
 1. https://www.youtube.com/watch?v=ycNw2Jxziuw
 2. https://www.youtube.com/channel/UCFnOHnLDMs7UUZxY8oq6fFA/videos
+
+## Gutenberg Tutorial Articles
+
+1. https://wordpress.org/gutenberg/handbook/
+2. https://organicthemes.com/create-custom-block-wordpress-gutenberg/
+3. https://code.tutsplus.com/tutorials/wordpress-gutenberg-block-api-creating-custom-blocks--cms-31168
+4. How to Build Custom Gutenberg Blocks: a Beginner’s Guide - https://modularwp.com/how-to-build-gutenberg-blocks/
+5. Wordpress Gutenberg Block API - https://code.tutsplus.com/series/wordpress-gutenberg-block-api--cms-1281
