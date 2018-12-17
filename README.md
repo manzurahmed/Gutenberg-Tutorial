@@ -2,7 +2,7 @@
 
 https://github.com/ahmadawais/create-guten-block
 
-We need NPM already installed on my PC.
+I need NPM already installed on my PC.
 
 You’ll need to have Node >= 8 and npm >= 5.3 on your local development machine (but it’s not required on the server).
 
