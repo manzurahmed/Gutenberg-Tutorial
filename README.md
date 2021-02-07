@@ -38,8 +38,36 @@ npm run build
 
 ## Gutenberg Video Tutorials
 
-1. https://www.youtube.com/watch?v=ycNw2Jxziuw
-2. https://www.youtube.com/channel/UCFnOHnLDMs7UUZxY8oq6fFA/videos
+1. **ONLab Developers:**
+https://www.youtube.com/watch?v=ycNw2Jxziuw
+2. **Imran Sayed - Codeytek Academy**
+https://www.youtube.com/watch?v=U4sfx7vN0Iw&list=PLD8nQCAhR3tSijB-KSc26ZiYYz3Lts4HD
+3. **WordPress & JavaScript in 2019: Coding a Custom Block Type for Gutenberg Block Editor - LearnWebCode**
+https://www.youtube.com/watch?v=Mv68Sa-iHyo
+4. **Create Dynamic Gutenberg Block Tutorial | Fetch Latest Posts from Blog**
+https://www.youtube.com/watch?v=XkjrrLR0Y3E
+5. **Gutenberg block development bangla tutorial ( part 1 )**
+https://www.youtube.com/watch?v=TmAq1Su6lD4
+6. **Block Lab**
+https://www.youtube.com/channel/UCXAYSopp1CZGswZf1w_Q80g/featured
+7. **Gutenberg + Wordpress / How to develop blocks / Tutorial [ Part 1 ]**
+https://www.youtube.com/watch?v=ycNw2Jxziuw&list=PLl4kJY9FLZGHqeGGx6kSBBVekrdpvZQEo
+8. **Getting started with Gutenberg Block Development**
+https://www.youtube.com/watch?v=EtS1on6YWhg
+9. **Online Web Tutor**
+https://www.youtube.com/channel/UCB2flCo-gW6RhpVVXySqcMg
+10. **Extending Core WordPress Blocks - Gutenberg Course**
+https://www.youtube.com/watch?v=6sL6J34SUlk
+11. **WordPress Development - Create WordPress Themes, Plugins and Gutenberg Blocks Tutorial**
+https://www.youtube.com/watch?v=jUmLd6Mwv4s
+12. **Digging Into Gutenberg 2020 | Gutenberg Block Development Tutorial | @wordpress/components**
+https://www.youtube.com/watch?v=_grCOGDeCwM
+13. **How to create Block Patterns | register_block_pattern | The Future of Page Building in WordPress**
+https://www.youtube.com/watch?v=eAIcFTo73oI&list=PLD8nQCAhR3tS2ObKBs7hx0B4uiiEbjuIq
+14. **Gutenberg Block Tutorial - RichText Component**
+https://www.youtube.com/watch?v=K3uQa035HTk
+15. **Wordpress Development: Creating a custom Gutenberg Hero Section Block**
+https://www.youtube.com/watch?v=SpymGO3La1M
 
 ## Gutenberg Tutorial Articles
 
