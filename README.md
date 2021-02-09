@@ -68,6 +68,8 @@ https://www.youtube.com/watch?v=eAIcFTo73oI&list=PLD8nQCAhR3tS2ObKBs7hx0B4uiiEbj
 https://www.youtube.com/watch?v=K3uQa035HTk
 15. **Wordpress Development: Creating a custom Gutenberg Hero Section Block**
 https://www.youtube.com/watch?v=SpymGO3La1M
+16. **Extending Gutenberg Core Blocks with Custom Attributes and Controls**
+https://jeffreycarandang.com/extending-gutenberg-core-blocks-with-custom-attributes-and-controls/
 
 ## Gutenberg Tutorial Articles
 
